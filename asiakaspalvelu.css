@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    color: rgb(240, 16, 16);
+    padding: 2rem 0; /* Lisää hieman tilaa headeriin */
+    text-align: center;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+header nav ul li a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+form input, form textarea, form button {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+form button {
+    background: #0078D7;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+form button:hover {
+    background: #005BB5;
+}
+
+footer {
+    background: #f4f4f4;
+    color: #333;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}

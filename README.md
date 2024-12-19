@@ -25,6 +25,7 @@ Git koodin versionhallintaan ja projektin lataamiseen GitHubista.
 
 # Projektin kehittäjät
 
-Abdi-karim - projektin kehittäjä 
+Abdi-karim - projektin kehittäjä
+ 
 Abdiasis   - projektin kehittäjä 
 

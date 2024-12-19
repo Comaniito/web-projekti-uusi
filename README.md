@@ -23,9 +23,8 @@ Varausosiossa voit valita vapaan ajan fysioterapeutille, täyttää tiedot ja sa
 Git koodin versionhallintaan ja projektin lataamiseen GitHubista.
 
 
-# Projektin kehittäjät
+## Projektin kehittäjät
 
-Abdi-karim - projektin kehittäjä
- 
-Abdiasis   - projektin kehittäjä 
+# Abdi-karim - projektin kehittäjä
+# Abdiasis   - projektin kehittäjä 
 

@@ -12,6 +12,9 @@ header {
 }
 
 header nav ul {
+    background-image: url('assets/HeroBanner/AnneSetalaLogo.jpg');
+  background-size: contain; /* Skaalaa kuva täyttämään alue */
+  background-position: center;
     list-style: none;
     padding: 0;
 }
